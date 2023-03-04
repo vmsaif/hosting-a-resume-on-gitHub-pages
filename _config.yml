@@ -1,18 +1,20 @@
-
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 defaults:
   -
     scope:
-      path: /docs/
+      path: ""
       type: "pages"
     values:
       layout: "default"
   -
     scope:
-      path: /docs/
+      path: ""
       type: "pages"
     values:
       permalink: /index.html
-      source: resume.md
+      source: /docs/resume.md
 
 exclude:
   - README.md
