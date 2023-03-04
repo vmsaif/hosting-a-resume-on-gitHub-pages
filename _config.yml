@@ -1,3 +1,5 @@
 theme: jekyll-theme-Minimal
 exclude:
   - README.md
+name: ""
+title: null
