@@ -1,6 +1,7 @@
 theme: jekyll-theme-Minimal
 markdown: kramdown
-
+exclude:
+  - README.md
 defaults:
   -
     scope:
