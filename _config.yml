@@ -14,7 +14,6 @@ defaults:
       type: "pages"
     values:
       permalink: /index.html
-      source: /docs/resume.md
 
 exclude:
   - README.md
