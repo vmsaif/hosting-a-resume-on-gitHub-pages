@@ -1,24 +1,45 @@
-theme: jekyll-theme-Minimal
+# Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+
+# Site settings
+title: My GitHub Pages Website
+description: A short description of your website
+url: https://yourusername.github.io
+baseurl: ""
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+
+# Exclude files
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
   - README.md
+
+# Permalinks
+permalink: /:title/
+
+# Default page layout
 defaults:
   -
     scope:
-      path: "" # empty string for the root directory
+      path: ""
       type: "pages"
     values:
       layout: "default"
   -
     scope:
-      path: "" # empty string for the root directory
+      path: ""
       type: "pages"
     values:
       permalink: /index.html
       source: resume.md
-
-
-
-
-
-
