@@ -1,1 +1,23 @@
 theme: jekyll-theme-Minimal
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for the root directory
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "" # empty string for the root directory
+      type: "pages"
+    values:
+      permalink: /index.html
+      source: resume.md
+
+
+
+
+
+
