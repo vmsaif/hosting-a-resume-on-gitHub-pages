@@ -1,5 +1,6 @@
 theme: jekyll-theme-Minimal
 exclude:
   - README.md
-name: ""
-title: null
+name: "a"
+title: "b"
+description: [c]
