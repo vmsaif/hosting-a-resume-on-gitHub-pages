@@ -1,7 +1,7 @@
 - [Portfolio](https://vmsaif.github.io/) | [LinkedIn](https://www.linkedin.com/in/vmsaif/)  
 - Email: <msaifofficial@gmail.com>
-- Phone: +1 204 955 5064  
-- Location: Winnipeg, Manitoba
+- Phone: [+1 204 955 5064](tel:+1-204-955-5064)
+- Location: [Winnipeg, Manitoba](https://goo.gl/maps/DdEDRdaxE5F9cR14A)
 
 ## Career Goal 
 
@@ -10,8 +10,7 @@ To obtain an entry-level position in the industry, where I can utilize my strong
 ## Project Experience 
 ### Blockchain | Car Mileage Tracker
 
-- Innovative Thinker 
-- Inclined toward new technology
+Innovative Thinker | Inclined toward new technology
 
 I have initiated and developed a car mileage tracker using blockchain technology. I have also implemented a web interface that allows insurance companies to query the last updated mileage of the car, ensuring the accuracy of the blockchain smart contract and the reliability of data. 
 
@@ -23,8 +22,7 @@ I have initiated and developed a car mileage tracker using blockchain technology
 
 ### Android Development 
 
-- Worked on Project Management 
-- Team Player 
+Worked on Project Management | Team Player 
 
 Collaborated with a team to develop an android application called Reversible Learning, a study app that utilizes "the flashcard" method to aid in learning. Utilized Android development skills to create a functional and user-friendly application with features such as: 
 - Allows users to add and practice questions, then reveal the answers by
