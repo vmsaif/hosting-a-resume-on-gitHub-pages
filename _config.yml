@@ -1,6 +1,8 @@
 theme: jekyll-theme-Minimal
 exclude:
   - README.md
-name: "a"
-title: "b"
-description: [c]
+name: ""
+title: ""
+description: ""
+github:
+  is_project_page: false
