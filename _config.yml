@@ -2,7 +2,7 @@ theme: jekyll-theme-Minimal
 exclude:
   - README.md
 name: ""
-title: ""
+title: "Resume"
 description: ""
 github:
   is_project_page: false
