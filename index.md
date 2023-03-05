@@ -1,7 +1,5 @@
-# Saif Mahmud 
-
 - [Portfolio](https://vmsaif.github.io/) | [LinkedIn](https://www.linkedin.com/in/vmsaif/)  
-- Email: msaifofficial@gmail.com  
+- Email: <msaifofficial@gmail.com>
 - Phone: +1 204 955 5064  
 - Location: Winnipeg, Manitoba
 
@@ -40,7 +38,12 @@ Collaborated with a team to develop an android application called Reversible Lea
 - Exceptionally skilled in all aspects of Java. 
 - Strong leadership and collaboration skills. 
 - Skilled in critical thinking, logic and math.
-  
+
+### Programming 
+- Git, Docker, UNIX, VS Code, Eclipse, IntelliJ, neo4j 
+- Over 5000 lines: Java, C++, JavaScript, C 
+- Over 1000 lines: Python, HTML, CSS, SQL, Assembly, Prolog, JSON, MongoDB 
+
 ## Education 
 
 ### University of Manitoba 
@@ -60,11 +63,6 @@ Collaborated with a team to develop an android application called Reversible Lea
 - Statistics and Computing 
 - Human-Computer Interaction 
 - AI and Game Development  
-
-### Programming 
-- Git, Docker, UNIX, VS Code, Eclipse, IntelliJ, neo4j 
-- Over 5000 lines: Java, C++, JavaScript, C 
-- Over 1000 lines: Python, HTML, CSS, SQL, Assembly, Prolog, JSON, MongoDB 
 
 ## Volunteer 
 
