@@ -90,14 +90,19 @@ To activate the Github site hosting feature, follow the steps below.
 ### Authors and Acknowledgments
 This README was created by Saif Mahmud and reviewed by Martin Popper, Aditya Kashyap, and Akashkumar Ghelani.
 
-#### FAQs
-1. Can I edit my resume after I have hosted it on GitHub Pages?
+### FAQs
+Q. Can I edit my resume after I have hosted it on GitHub Pages?
 
 Yes, you can edit your resume after you have hosted it on GitHub Pages. Simply make the necessary changes to your Markdown file and save the changes. Then, upload the updated file to your GitHub repository using the same steps outlined in Step 4. Your changes should be reflected on your hosted resume shortly after GitHub rebuilds your site.
 
-2. Can I use a different theme for my GitHub Pages site?
+Q. Can I use a different theme for my GitHub Pages site?
 
 Yes, you can use a different Jekyll theme by changing the remote_theme field in the _config.yml file to the theme you prefer. A list of Jekyll themes is available [here](https://pages.github.com/themes/). Once you update the _config.yml file, commit the changes and your GitHub Pages site will automatically update with the new theme.
+
+
+<br>
+<br>
+<br>
 
 # Relating to Andrew Etter's Principles
 
