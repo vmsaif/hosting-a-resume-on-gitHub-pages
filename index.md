@@ -1,8 +1,8 @@
-- [Portfolio](https://vmsaif.github.io/) | [LinkedIn](https://www.linkedin.com/in/vmsaif/)  
 - Email: <msaifofficial@gmail.com>
 - Phone: [+1 204 955 5064](tel:+1-204-955-5064)
 - Location: [Winnipeg, Manitoba](https://goo.gl/maps/DdEDRdaxE5F9cR14A)
-
+- [Portfolio](https://vmsaif.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/vmsaif/)  
 ## Career Goal 
 
 To obtain an entry-level position in the industry, where I can utilize my strong problem-solving skills and passion for technology to make a meaningful contribution to the team. With my ability to balance complexity and responsibility, I am confident in taking on challenging projects and delivering high-quality results.
