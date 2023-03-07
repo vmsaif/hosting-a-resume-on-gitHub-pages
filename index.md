@@ -10,7 +10,7 @@ To obtain an entry-level position in the industry, where I can utilize my strong
 ## Project Experience 
 ### Blockchain | Car Mileage Tracker
 
-Fresh Perspective Habits | Always inclined toward newer technology
+Fresh Perspective Habits | Always Inclined Toward Newer Technology
 
 I have initiated and developed a car mileage tracker using blockchain technology. I have also implemented a web interface that allows insurance companies to query the last updated mileage of the car, ensuring the accuracy of the blockchain smart contract and the reliability of data. 
 
