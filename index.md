@@ -1,8 +1,8 @@
 - Email: <msaifofficial@gmail.com>
 - Phone: [+1 204 955 5064](tel:+1-204-955-5064)
 - Location: [Winnipeg, Manitoba](https://goo.gl/maps/DdEDRdaxE5F9cR14A)
-- [Portfolio](https://vmsaif.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/vmsaif/)  
+- More about me: [Portfolio](https://vmsaif.github.io/), [LinkedIn](https://www.linkedin.com/in/vmsaif/)
+
 ## Career Goal 
 
 To obtain an entry-level position in the industry, where I can utilize my strong problem-solving skills and passion for technology to make a meaningful contribution to the team. With my ability to balance complexity and responsibility, I am confident in taking on challenging projects and delivering high-quality results.
@@ -10,7 +10,7 @@ To obtain an entry-level position in the industry, where I can utilize my strong
 ## Project Experience 
 ### Blockchain | Car Mileage Tracker
 
-Innovative Thinker | Inclined toward new technology
+Fresh Perspective Habits | Always inclined toward newer technology
 
 I have initiated and developed a car mileage tracker using blockchain technology. I have also implemented a web interface that allows insurance companies to query the last updated mileage of the car, ensuring the accuracy of the blockchain smart contract and the reliability of data. 
 
