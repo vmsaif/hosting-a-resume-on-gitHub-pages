@@ -16,16 +16,19 @@ Before following the instructions in this README, you will need the following:
 ## INTRODUCTION
 
 ### STEP 1: Create a Github Account
+
 If you have a GitHub account already, you can skip to step 2. 
+
 1. Go to the GitHub homepage at <https://github.com/>.
 2. Click on the `Sign up` button in the top right corner of this page.
 3. Enter your preferred username, email address, and strong password.
 4. Click the `Create account` button.
 5. Choose a plan. You can choose the free plan for now.
 6. Follow the on-screen steps to complete filling out your personal information and selecting your preferences.
-7. A link has been sent to you to verify at the email address you have provided. Verify your email address by clicking the link.
+7. Verify your email address by clicking the link that has been sent to you at the email address you have provided.
 
 ### STEP 2: Create a New Repository
+
 The Second step in hosting your resume on GitHub Pages is to create a new repository on GitHub. You can do this by following these steps:
 
 1. Log in to your GitHub account if you are already not logged in.
@@ -35,7 +38,8 @@ The Second step in hosting your resume on GitHub Pages is to create a new reposi
 5. Click the `Create repository` button.
 
 ### STEP 3: Rename the Resume File.
-This step will cover creating the resume in markdown format. 
+
+This step will cover preparing the resume for the static website. 
 
 1. Rename the resume filename as `index.md`.
 2. Remember the location where you saved this file.
@@ -49,10 +53,12 @@ In this step, we will upload our markdown formatted resume to our GitHub resume.
 5. Click on the "Commit changes" button at the bottom to upload the files to the repository.
 
 ### STEP 5: Creating the Configuration File for Jekyll
+
 To generate a static site and add a theme to your resume, we will be using Jekyll. Jekyll is a static site generator that allows you to create websites and blogs by writing content in Markdown or HTML and using templates to generate the pages. To generate a static site using Jekyll and add a theme, we need to create a `_config.yml` file. From the repository, 
+
 1. Click on the `"Add file"` dropdown button and select `"Create new file"`.
-2. A text editor will appear. At the top of it, there is an empty field. Write the name your file here. The name must be exactly `_config.yml`
-3. In the text editor, copy this code below.
+2. Write the name your file at the top of the text editor. The name must be exactly `_config.yml`
+3. Copy this code below in the text editor.
 
 ```
 remote_theme: pages-themes/slate@v0.2.0 # this line adds the slate theme of Jekyll. You can replace "slate@v0.2.0" with your preferred theme.
@@ -60,25 +66,29 @@ remote_theme: pages-themes/slate@v0.2.0 # this line adds the slate theme of Jeky
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "RESUME OF [Your Name]" 
+title: "RESUME OF [Your Name]" # Replace "[Your Name]" with your first and last name.
 ```
-4. Click on the "Commit changes" button at the bottom.
+
+4. Click on the `Commit changes` button at the bottom.
 
 ### STEP 6: Set up GitHub Pages
+
 To activate the Github site hosting feature, follow the steps below.
-1. In the repository, navigate to the "Settings" tab.
-2. Scroll down to the "GitHub Pages" section on the left side of the page.
-3. Select the branch you want to use as the source. In this case, select the main branch.
-4. Click "Save."
+
+1. In the repository, navigate to the `Settings` tab.
+2. Scroll down to the `GitHub Pages` section on the left side of the page.
+3. Select the branch you want to use as the source. For now, select the `main` branch.
+4. Click `Save.`
 
 
 ### STEP 7: Check your GitHub Pages site
 
-1. Please wait up to 10 minutes for Github to build your site. However, the usual time is around 2 minutes.
-2. go to `https://username.github.io/repository_name/`, where username is your GitHub username and repository_name is the name of the repository where you uploaded your resume.
+1. Wait up to 10 minutes for Github to build your site. However, the usual time is around 2 minutes.
+2. Go to `https://username.github.io/repository_name/`, where username is your GitHub username and repository_name is the name of the repository where you uploaded your resume.
 3. You should see your resume displayed on the site.
 
 ### Visual Representation Example
+
 <img src="/assets/images/resume.gif" alt="resume_example" width="500" height="300" />
 
 ## More Resources: 
@@ -88,7 +98,8 @@ To activate the Github site hosting feature, follow the steps below.
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ## Authors and Acknowledgments
-This README was created by Saif Mahmud. The theme used in the resume is Jekyll slate@v0.2.0 found [here](https://github.com/pages-themes/slate).
+This README was created by Saif Mahmud and peer reviewed by Aditya Kashyap. 
+The theme used in the resume is Jekyll `slate@v0.2.0` found [here](https://github.com/pages-themes/slate).
 
 ## FAQs
 Q. Can I edit my resume after I have hosted it on GitHub Pages?
@@ -115,22 +126,13 @@ Relate the practical steps described above to the general principles of current 
 
 ## Correlation
 
-1. Purpose: This section is an example of providing the audience with a clear objective of the document. This is one of the key principles of technical writing. It helps the readers understand the context and what they can expect from this document.
+### 1. Using a lightweight markup language.
+In Etter's book, "Modern Technical Writing," he discusses the importance of using lightweight markup languages. A lightweight markup language such as Markdown makes it easy to create technical documentation that is easy to read, write, and maintain. This readme document and the resume we have made were in markdown format. From a markdown format, one can easily convert it into an HTML document without worrying about the complexities of HTML markup.
 
-2. Prerequisite: To prevent frustration and failures later on, this section helps by identifying the necessary skills, knowledge, and resources needed for this particular task. One can focus on acquiring or improving them before moving on to the next step. This step also helps to identify who the audience should be for this document.
+### 2. Format a document with a static site generator.
+The book also emphasizes using a static site generator such as Jekyll. Jekyll is a static site generator that allows the creation of websites by writing content in Markdown or HTML and using templates to generate the pages. In the instructions above, we have used Jekyll to generate a static site and add a theme to our resume. By creating a _config.yml file and specifying a theme, we were able to generate a professional-looking resume with minimal effort.
 
-3. Step 1: Create a Github Account: This step is an example of breaking down the content into smaller, manageable chunks. It helps the readers focus on each step and reduces confusion or error.
+### 3. Share/host documents on a distributed version control system.
+Etter highly encouraged the advantages of utilizing version control systems like Git to track modifications made to the documents. In this README, we have used a version control system called GitHub as a platform to host our resume. With Git, we can effectively track and revert any modifications made to our documents. Moreover, by hosting our resume on GitHub, we can seamlessly share it with others and engage in collaborative work on the same document for free.
 
-4. Step 2: Create a New Repository: This step is an example of using descriptive headings to select the appropriate medium to communicate with the audience. By reading this heading, the audience will know the goal of this step.
-
-5. Step 3: Creating the Resume in Markdown Format: In this step, the instructions are clear and concise, which is another principle of technical writing. It helps the readers follow the steps without getting overwhelmed by unnecessary information.
-
-6. Step 4: Uploading the Resume: This step is an example of using an easy-to-follow manner. This step also uses the version control `git`` system to keep track of changes made to the document. 
-
-7. Step 5: Creating the Configuration File for Jekyll: This step's process can be new and overwhelming to the audiences. Thus, a short description was added to provide a clear understanding and goal of this step.
-
-8. Step 6: Set up GitHub Pages: This step is an example of using appropriate formatting and layout, such as using bullet points to make the content more understandable and scannable for the audience.
-
-9. Step 7: Check your GitHub Pages site: This step is an example of providing a conclusion of the instructions, which is another principle of technical writing. It helps the readers understand the outcomes of following the instructions.
-
-10. Visual Representation Example: This step is an example of using visual aids, such as images or videos to enhance the readers' understanding, which is another principle of technical writing.
+In conclusion, by following the practical steps outlined in this README, we have demonstrated the key principles of using lightweight markup languages, formatting a document with a static site generator, and sharing/hosting documents on a distributed version control system. As outlined in Etter's book, these principles, are very effective for creating and maintaining technical documentation.
