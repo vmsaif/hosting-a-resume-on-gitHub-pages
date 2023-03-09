@@ -76,7 +76,7 @@ title: "RESUME OF [Your Name]" # Replace "[Your Name]" with your first and last 
 To activate the Github site hosting feature, follow the steps below.
 
 1. In the repository, navigate to the `Settings` tab.
-2. Scroll down to the `GitHub Pages` section on the left side of the page.
+2. Scroll down to the `Pages` section on the left side of the page.
 3. Select the branch you want to use as the source. For now, select the `main` branch.
 4. Click `Save.`
 
