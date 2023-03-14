@@ -6,7 +6,7 @@
 - Using lightweight markup languages such as `Markdown` to create technical documentation that is easy to read, write, and maintain.
 - Using version control systems such as `git` to keep track of changes made to the documentation.
 
-### PREREQUISITES
+## PREREQUISITES
 
 Before following the instructions in this README, you will need the following:
 
