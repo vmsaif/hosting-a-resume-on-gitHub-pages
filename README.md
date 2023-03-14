@@ -13,7 +13,7 @@ Before following the instructions in this README, you will need the following:
 - `Web Browser.`
 - `A Resume in Markdown Format`.
 
-## INTRODUCTION
+## INSTRUCTION
 
 ### STEP 1: Create a Github Account
 
@@ -98,7 +98,7 @@ To activate the Github site hosting feature, follow the steps below.
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ## Authors and Acknowledgments
-This README was created by Saif Mahmud and peer reviewed by Aditya Kashyap. 
+This README was created by Saif Mahmud and peer-reviewed by Aditya Kashyap. 
 The theme used in the resume is Jekyll `slate@v0.2.0` found [here](https://github.com/pages-themes/slate).
 
 ## FAQs
