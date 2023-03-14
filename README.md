@@ -45,7 +45,7 @@ This step will cover preparing the resume for the static website.
 2. Remember the location where you saved this file.
 
 ### STEP 4: Uploading the Resume
-In this step, we will upload our markdown formatted resume to our GitHub resume. You can do this by following these steps: 
+In this step, we will upload our markdown formatted resume to our GitHub resume repository. You can do this by following these steps: 
 
 2. Go to the repository on GitHub from your browser.
 3. Click on the "Add file" dropdown button and select "Upload files".
@@ -76,7 +76,7 @@ title: "RESUME OF [Your Name]" # Replace "[Your Name]" with your first and last 
 To activate the Github site hosting feature, follow the steps below.
 
 1. In the repository, navigate to the `Settings` tab.
-2. Scroll down to the `GitHub Pages` section on the left side of the page.
+2. Scroll down to the `Pages` section on the left side of the page.
 3. Select the branch you want to use as the source. For now, select the `main` branch.
 4. Click `Save.`
 
